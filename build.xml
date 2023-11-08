@@ -11,7 +11,7 @@
 		<PreprocessorDefines>PUGIXML_NO_XPATH;PUGIXML_NO_EXCEPTIONS;PUGIXML_NO_STL</PreprocessorDefines>
 		<ThirdParty>true</ThirdParty>
 		<ThirdPartySourceFile>
-			pugixml.cpp.cpp
+			pugixml.cpp
 		</ThirdPartySourceFile>
 	</StaticLibrary>
 
